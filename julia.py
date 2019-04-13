@@ -1,5 +1,8 @@
 %matplotlib inline
 
+# Nice sample code for a Julia plot from
+# https://scipython.com/book/chapter-7-matplotlib/problems/p72/the-julia-set/
+
 import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
